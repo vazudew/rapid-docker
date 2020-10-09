@@ -21,6 +21,7 @@ services:
       - MONGO_INITDB_ROOT_PASSWORD=pass
     ports:
       - '27017:27017'
+
   mongo-express:
     container_name: mongo-express
     image: mongo-express

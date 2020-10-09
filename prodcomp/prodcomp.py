@@ -2,6 +2,8 @@ from flask import Flask, redirect, url_for, render_template, request, flash
 
 app = Flask(__name__)
 
+
+
 @app.route("/health")
 def info():
     return "health is ok!\n"
