@@ -1,0 +1,41 @@
+version: "2"
+services:
+
+  app:
+    container_name: prodcomp
+    build:
+      context: ../
+      dockerfile: deployments/container/prodcomp_dockerfile
+    links:
+      - mongodb
+    ports:
+      - "11920:5000"
+
+  mongodb:
+    container_name: mongodb
+    image : mongo:3.4
+    restart: always
+    environment:
+        MONGO_INITDB_ROOT_USERNAME: prodcomp
+        MONGO_INITDB_ROOT_PASSWORD: secret
+    ports:
+      - "27017:27017"
+    volumes:
+        - mongo-data:/data/db
+
+  mongoexpress:
+    container_name: mongodb-express
+    image : mongo-express:0.49.0
+    restart: always
+    depends_on:
+      - mongodb
+    environment:
+        MONGO_INITDB_ROOT_USERNAME: prodcomp
+        MONGO_INITDB_ROOT_PASSWORD: secret
+        ME_CONFIG_BASICAUTH_USERNAME: admin
+        ME_CONFIG_BASICAUTH_PASSWORD: secret
+    ports:
+      - "8985:8081"
+
+volumes:
+    mongo-data:

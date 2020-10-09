@@ -1,9 +1,36 @@
-version: "2"
+version: "3.7"
 services:
+
   app:
-    container_name: simple-app
+    container_name: prodcomp
     build:
       context: ../
-      dockerfile: deployments/app/Dockerfile
+      dockerfile: deployments/container/prodcomp_dockerfile
+    links:
+      - mongodb
     ports:
-      - "5000:5000"
+      - "11920:5000"
+
+
+  mongodb:
+    container_name: mongo-dev
+    image: mongo
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_DATABASE=auth
+      - MONGO_INITDB_ROOT_PASSWORD=pass
+    ports:
+      - '27017:27017'
+  mongo-express:
+    container_name: mongo-express
+    image: mongo-express
+    depends_on:
+      - mongodb
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=admin
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=pass
+      - ME_CONFIG_MONGODB_SERVER=mongo-dev
+      - ME_CONFIG_BASICAUTH_USERNAME=admin
+      - ME_CONFIG_BASICAUTH_PASSWORD=ihavealongpassword
+    ports:
+      - '8985:8081'
