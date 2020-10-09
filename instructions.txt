@@ -1,0 +1,37 @@
+Docker Container REST APi
+-------------------------
+https://hackernoon.com/running-docker-on-aws-ec2-83a14b780c56
+https://medium.com/@daniel.carlier/how-to-build-a-simple-flask-restful-api-with-docker-compose-2d849d738137
+https://github.com/Krlier/SimpleProject
+https://docs.python.org/3/tutorial/venv.html
+
+Setup EC2-Machine
+=================
+sudo yum update -y
+sudo yum install -y docker
+sudo service docker start
+sudo usermod -aG docker ec2-user #n order to user docker command without root privileges (sudo), we need to add ec2-user to the docker group:
+docker run -d -p 80:80 --name mginx nginx
+docker ps
+issue : https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
+
+Flask example:
+------------------
++ app
+	+- static
+		+ css 
+	+- templates
+		+ index.html
+	+ - app.py
+	+ - requirements.txt
+
++ deployment
+	+- app
+		+ - Dockerfile
+	+ - docker-compose.yml
+
+DB: https://www.edureka.co/blog/docker-compose-containerizing-mean-stack-application/
+https://linuxhint.com/setup_mongodb_server_docker/
+
+--build --force-recreate --renew-anon-volumes
+docker-compose -f deployments/docker-compose.yml  --build --force-recreate --renew-anon-volumes
