@@ -15,8 +15,9 @@ services:
       - mongodb
     networks: 
       - backend_nw
-    ports: 
-      - "11920-11925:5000"
+    expose: 
+        - 5000
+  
 
   mongo-express: 
     container_name: mongo-express
@@ -46,3 +47,15 @@ services:
       - backend_nw
     ports: 
       - "27017:27017"
+
+  nginx:
+    image: nginx:latest
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - app
+    ports:
+      - "4000:4000"
+    networks: 
+      - backend_nw
+
