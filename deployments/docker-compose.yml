@@ -9,7 +9,6 @@ services:
     build: 
       context: ../
       dockerfile: deployments/container/prodcomp_dockerfile
-    container_name: prodcomp
     depends_on: 
       - mongodb
     links: 
@@ -17,7 +16,7 @@ services:
     networks: 
       - backend_nw
     ports: 
-      - "11920:5000"
+      - "11920-11925:5000"
 
   mongo-express: 
     container_name: mongo-express

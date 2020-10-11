@@ -15,7 +15,7 @@ user='admin'
 password='pass'
 hostname='mongodb'
 port='27017'
-MONGODB_URI=f"mongodb//{user}:{password}@{hostname}:{port}/"
+MONGODB_URI=f'mongodb://{user}:{password}@{hostname}:{port}/'
 logging.debug(f"URL : {MONGODB_URI}")
 MACHINE_ID=("%05x" % random.randrange(16**5)).upper()
 logging.debug(f"ID : {MACHINE_ID}")
@@ -49,7 +49,7 @@ def index():
     initDB()
     info = {
         "MongoDB URL" : f"{hostname}:{port}",
-        "MongoDB Express URL": f"{hostname}:8985",
+        "MongoDB Express URL": f"localhost:8985",
         "ME Username": "admin",
         "ME Password" : "pass"
     }
