@@ -4,9 +4,8 @@
     <p>{{ message }}</p>
     <p>Details:  Machine ID : {{id}}</p>
     <ul>
-      {% for key, value in information.items() %}
-        <dt>{{ key }}</dt>
-        <dd>{{ value }}</dd>
+      {% for product in productsList %}
+      <li>{{ product}}</li>
       {% endfor %} 
     </ul>
 </div>

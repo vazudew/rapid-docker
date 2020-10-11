@@ -1,0 +1,14 @@
+
+{% extends "foundation.html" %}
+{% block content %}
+<div>
+    <p>{{ message }}</p>
+    <p>Upload file for import:  Machine ID : {{id}}</p>
+    <form action="/upload" method='post'  enctype="application/json">
+        <input type="file" id="importJsonFile" name="importJsonFile">
+        <input type="submit">
+    </form>
+</div>
+{% endblock %}
+
+

@@ -1,0 +1,181 @@
+
+[20:02:51] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:02:51] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:02:52] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:02:52] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:02:52] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:02:52] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:03:07] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:03:07] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:03:07] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:03:13] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - iupload called
+[20:03:13] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:03:13] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[20:04:04] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Detected change in 'C:\\Users\\vkukkundoor\\Desktop\\learn\\rapid-docker\\prodcomp\\prodcomp.py', reloading
+[20:04:05] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:04:06] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:04:06] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:04:06] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:04:06] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:04:24] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Detected change in 'C:\\Users\\vkukkundoor\\Desktop\\learn\\rapid-docker\\prodcomp\\prodcomp.py', reloading
+[20:04:24] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:04:25] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:04:25] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:04:25] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:04:25] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:04:43] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Detected change in 'C:\\Users\\vkukkundoor\\Desktop\\learn\\rapid-docker\\prodcomp\\prodcomp.py', reloading
+[20:04:43] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:04:45] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:04:45] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:04:45] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:04:45] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:04:52] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:04:53] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:04:54] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:04:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:04:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:04:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:04:59] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81ef729dc2a90006e2e251'), 'product': 'game', 'category': 'software', 'vendor': 'President', 'price': '15.90', 'rating': 4}
+[20:04:59] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81f6fc9dc2a90006e2e253'), 'product': 'laptop', 'category': 'electronics', 'vendor': 'Agility', 'price': '900.00', 'rating': 3}
+[20:04:59] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:04:59] "[37mGET /fetch HTTP/1.1[0m" 200 -
+[20:05:03] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:05:03] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:05:03] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:05:09] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - <Request 'http://localhost:7012/upload' [POST]>
+[20:05:09] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:69} DEBUG - iupload called
+[20:05:09] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:71} DEBUG - POST METHOD
+[20:05:09] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:05:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[20:08:21] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:08:21] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:08:22] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:08:22] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:08:22] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:08:22] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:08:31] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:31] "[37mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[20:08:35] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:30} DEBUG - inf: {'version': '4.4.1', 'gitVersion': 'ad91a93a5a31e175f5cbf8c69561e788bbc55ce1', 'modules': [], 'allocator': 'tcmalloc', 'javascriptEngine': 'mozjs', 'sysInfo': 'deprecated', 'versionArray': [4, 4, 1, 0], 'openssl': {'running': 'OpenSSL 1.1.1  11 Sep 2018', 'compiled': 'OpenSSL 1.1.1  11 Sep 2018'}, 'buildEnvironment': {'distmod': 'ubuntu1804', 'distarch': 'x86_64', 'cc': '/opt/mongodbtoolchain/v3/bin/gcc: gcc (GCC) 8.2.0', 'ccflags': '-fno-omit-frame-pointer -fno-strict-aliasing -fasynchronous-unwind-tables -ggdb -pthread -Wall -Wsign-compare -Wno-unknown-pragmas -Winvalid-pch -Werror -O2 -Wno-unused-local-typedefs -Wno-unused-function -Wno-deprecated-declarations -Wno-unused-const-variable -Wno-unused-but-set-variable -Wno-missing-braces -fstack-protector-strong -fno-builtin-memcmp', 'cxx': '/opt/mongodbtoolchain/v3/bin/g++: g++ (GCC) 8.2.0', 'cxxflags': '-Woverloaded-virtual -Wno-maybe-uninitialized -fsized-deallocation -std=c++17', 'linkflags': '-pthread -Wl,-z,now -rdynamic -Wl,--fatal-warnings -fstack-protector-strong -fuse-ld=gold -Wl,--no-threads -Wl,--build-id -Wl,--hash-style=gnu -Wl,-z,noexecstack -Wl,--warn-execstack -Wl,-z,relro -Wl,-z,origin -Wl,--enable-new-dtags', 'target_arch': 'x86_64', 'target_os': 'linux', 'cppdefines': 'SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG _XOPEN_SOURCE 700 _GNU_SOURCE _FORTIFY_SOURCE 2 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS'}, 'bits': 64, 'debug': False, 'maxBsonObjectSize': 16777216, 'storageEngines': ['biggie', 'devnull', 'ephemeralForTest', 'wiredTiger'], 'ok': 1.0}
+[20:08:35] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:35] "[37mGET / HTTP/1.1[0m" 200 -
+[20:08:40] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81ef729dc2a90006e2e251'), 'product': 'game', 'category': 'software', 'vendor': 'President', 'price': '15.90', 'rating': 4}
+[20:08:40] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81f6fc9dc2a90006e2e253'), 'product': 'laptop', 'category': 'electronics', 'vendor': 'Agility', 'price': '900.00', 'rating': 3}
+[20:08:40] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:40] "[37mGET /fetch HTTP/1.1[0m" 200 -
+[20:08:43] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:08:43] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:43] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:08:49] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - <Request 'http://localhost:7012/upload' [POST]>
+[20:08:49] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:69} DEBUG - iupload called
+[20:08:49] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:71} DEBUG - POST METHOD
+[20:08:49] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:73} DEBUG - files inside
+[20:08:49] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:49] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[20:08:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:50] "[37mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[20:08:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:50] "[37mGET /upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[20:08:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:50] "[37mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[20:08:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:50] "[37mGET /upload?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[20:08:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:08:50] "[37mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[20:09:39] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Detected change in 'C:\\Users\\vkukkundoor\\Desktop\\learn\\rapid-docker\\prodcomp\\prodcomp.py', reloading
+[20:09:40] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:09:41] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:09:41] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:09:41] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:09:41] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:09:54] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:09:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:09:55] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:09:55] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:09:55] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:09:55] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:10:02] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:10:02] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:10:02] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:10:08] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - <Request 'http://localhost:7012/upload' [POST]>
+[20:10:08] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:69} DEBUG - iupload called
+[20:10:08] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:71} DEBUG - POST METHOD
+[20:10:08] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:73} DEBUG - files inside
+[20:10:08] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:74} DEBUG - request files : ImmutableMultiDict([('importJsonFile', <FileStorage: 'VAZU-ME' ('application/octet-stream')>)])
+[20:10:08] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:10:08] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[20:10:08] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:10:08] "[37mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[20:10:08] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:10:08] "[37mGET /upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[20:10:08] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:10:08] "[37mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[20:10:09] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:10:09] "[37mGET /upload?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[20:10:09] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:10:09] "[37mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[20:14:00] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:14:00] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:14:01] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:14:01] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:14:01] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:14:01] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:14:09] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81ef729dc2a90006e2e251'), 'product': 'game', 'category': 'software', 'vendor': 'President', 'price': '15.90', 'rating': 4}
+[20:14:09] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81f6fc9dc2a90006e2e253'), 'product': 'laptop', 'category': 'electronics', 'vendor': 'Agility', 'price': '900.00', 'rating': 3}
+[20:14:09] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:14:09] "[37mGET /fetch HTTP/1.1[0m" 200 -
+[20:14:13] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:14:13] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:14:13] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:14:19] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - <Request 'http://localhost:7012/upload' [POST]>
+[20:14:19] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:69} DEBUG - iupload called
+[20:14:19] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:71} DEBUG - POST METHOD
+[20:14:19] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:14:19] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[20:16:03] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:16:03] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:16:04] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:16:04] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:16:04] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:16:04] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:16:12] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:30} DEBUG - inf: {'version': '4.4.1', 'gitVersion': 'ad91a93a5a31e175f5cbf8c69561e788bbc55ce1', 'modules': [], 'allocator': 'tcmalloc', 'javascriptEngine': 'mozjs', 'sysInfo': 'deprecated', 'versionArray': [4, 4, 1, 0], 'openssl': {'running': 'OpenSSL 1.1.1  11 Sep 2018', 'compiled': 'OpenSSL 1.1.1  11 Sep 2018'}, 'buildEnvironment': {'distmod': 'ubuntu1804', 'distarch': 'x86_64', 'cc': '/opt/mongodbtoolchain/v3/bin/gcc: gcc (GCC) 8.2.0', 'ccflags': '-fno-omit-frame-pointer -fno-strict-aliasing -fasynchronous-unwind-tables -ggdb -pthread -Wall -Wsign-compare -Wno-unknown-pragmas -Winvalid-pch -Werror -O2 -Wno-unused-local-typedefs -Wno-unused-function -Wno-deprecated-declarations -Wno-unused-const-variable -Wno-unused-but-set-variable -Wno-missing-braces -fstack-protector-strong -fno-builtin-memcmp', 'cxx': '/opt/mongodbtoolchain/v3/bin/g++: g++ (GCC) 8.2.0', 'cxxflags': '-Woverloaded-virtual -Wno-maybe-uninitialized -fsized-deallocation -std=c++17', 'linkflags': '-pthread -Wl,-z,now -rdynamic -Wl,--fatal-warnings -fstack-protector-strong -fuse-ld=gold -Wl,--no-threads -Wl,--build-id -Wl,--hash-style=gnu -Wl,-z,noexecstack -Wl,--warn-execstack -Wl,-z,relro -Wl,-z,origin -Wl,--enable-new-dtags', 'target_arch': 'x86_64', 'target_os': 'linux', 'cppdefines': 'SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG _XOPEN_SOURCE 700 _GNU_SOURCE _FORTIFY_SOURCE 2 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS'}, 'bits': 64, 'debug': False, 'maxBsonObjectSize': 16777216, 'storageEngines': ['biggie', 'devnull', 'ephemeralForTest', 'wiredTiger'], 'ok': 1.0}
+[20:16:12] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:16:12] "[37mGET / HTTP/1.1[0m" 200 -
+[20:16:17] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:16:17] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:16:17] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:16:22] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - <Request 'http://localhost:7012/upload' [POST]> and application/x-www-form-urlencoded
+[20:16:22] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:69} DEBUG - iupload called
+[20:16:22] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:71} DEBUG - POST METHOD
+[20:16:22] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:16:22] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[20:18:19] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Detected change in 'C:\\Users\\vkukkundoor\\Desktop\\learn\\rapid-docker\\prodcomp\\prodcomp.py', reloading
+[20:18:19] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:18:20] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:18:20] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:18:20] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:18:20] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:18:29] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:18:29] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:18:30] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:18:30] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:18:30] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:18:30] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:18:39] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:30} DEBUG - inf: {'version': '4.4.1', 'gitVersion': 'ad91a93a5a31e175f5cbf8c69561e788bbc55ce1', 'modules': [], 'allocator': 'tcmalloc', 'javascriptEngine': 'mozjs', 'sysInfo': 'deprecated', 'versionArray': [4, 4, 1, 0], 'openssl': {'running': 'OpenSSL 1.1.1  11 Sep 2018', 'compiled': 'OpenSSL 1.1.1  11 Sep 2018'}, 'buildEnvironment': {'distmod': 'ubuntu1804', 'distarch': 'x86_64', 'cc': '/opt/mongodbtoolchain/v3/bin/gcc: gcc (GCC) 8.2.0', 'ccflags': '-fno-omit-frame-pointer -fno-strict-aliasing -fasynchronous-unwind-tables -ggdb -pthread -Wall -Wsign-compare -Wno-unknown-pragmas -Winvalid-pch -Werror -O2 -Wno-unused-local-typedefs -Wno-unused-function -Wno-deprecated-declarations -Wno-unused-const-variable -Wno-unused-but-set-variable -Wno-missing-braces -fstack-protector-strong -fno-builtin-memcmp', 'cxx': '/opt/mongodbtoolchain/v3/bin/g++: g++ (GCC) 8.2.0', 'cxxflags': '-Woverloaded-virtual -Wno-maybe-uninitialized -fsized-deallocation -std=c++17', 'linkflags': '-pthread -Wl,-z,now -rdynamic -Wl,--fatal-warnings -fstack-protector-strong -fuse-ld=gold -Wl,--no-threads -Wl,--build-id -Wl,--hash-style=gnu -Wl,-z,noexecstack -Wl,--warn-execstack -Wl,-z,relro -Wl,-z,origin -Wl,--enable-new-dtags', 'target_arch': 'x86_64', 'target_os': 'linux', 'cppdefines': 'SAFEINT_USE_INTRINSICS 0 PCRE_STATIC NDEBUG _XOPEN_SOURCE 700 _GNU_SOURCE _FORTIFY_SOURCE 2 BOOST_THREAD_VERSION 5 BOOST_THREAD_USES_DATETIME BOOST_SYSTEM_NO_DEPRECATED BOOST_MATH_NO_LONG_DOUBLE_MATH_FUNCTIONS BOOST_ENABLE_ASSERT_DEBUG_HANDLER BOOST_LOG_NO_SHORTHAND_NAMES BOOST_LOG_USE_NATIVE_SYSLOG BOOST_LOG_WITHOUT_THREAD_ATTR ABSL_FORCE_ALIGNED_ACCESS'}, 'bits': 64, 'debug': False, 'maxBsonObjectSize': 16777216, 'storageEngines': ['biggie', 'devnull', 'ephemeralForTest', 'wiredTiger'], 'ok': 1.0}
+[20:18:39] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:39] "[37mGET / HTTP/1.1[0m" 200 -
+[20:18:43] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81ef729dc2a90006e2e251'), 'product': 'game', 'category': 'software', 'vendor': 'President', 'price': '15.90', 'rating': 4}
+[20:18:43] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81f6fc9dc2a90006e2e253'), 'product': 'laptop', 'category': 'electronics', 'vendor': 'Agility', 'price': '900.00', 'rating': 3}
+[20:18:43] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:43] "[37mGET /fetch HTTP/1.1[0m" 200 -
+[20:18:48] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:18:48] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:48] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:18:54] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - <Request 'http://localhost:7012/upload' [POST]> and application/x-www-form-urlencoded
+[20:18:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:54] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[20:18:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:54] "[37mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[20:18:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:54] "[37mGET /upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[20:18:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:54] "[37mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[20:18:54] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:54] "[37mGET /upload?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[20:18:55] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:55] "[37mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[20:18:55] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:18:55] "[37mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[20:20:43] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Detected change in 'C:\\Users\\vkukkundoor\\Desktop\\learn\\rapid-docker\\prodcomp\\prodcomp.py', reloading
+[20:20:44] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:20:49] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:20:49] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:20:50] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:20:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:20:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:20:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[20:23:28] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[20:23:28] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:23:28] "[37mGET /import HTTP/1.1[0m" 200 -
+[20:23:34] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:68} DEBUG - <Request 'http://localhost:7012/upload' [POST]> and application/x-www-form-urlencoded
+[20:23:34] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:69} DEBUG - iupload called b''
+[20:23:34] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:71} DEBUG - POST METHOD
+[20:23:34] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [10/Oct/2020 20:23:34] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[20:23:48] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Detected change in 'C:\\Users\\vkukkundoor\\Desktop\\learn\\rapid-docker\\prodcomp\\prodcomp.py', reloading
+[20:23:48] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[20:23:50] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[20:23:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[20:23:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[20:23:50] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[14:47:28] {prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[14:47:28] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Restarting with stat
+[14:47:29] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:18} DEBUG - URL : mongodb//admin:pass@localhost:27017/
+[14:47:29] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} WARNING -  * Debugger is active!
+[14:47:29] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Debugger PIN: 403-453-774
+[14:47:29] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO -  * Running on http://0.0.0.0:7012/ (Press CTRL+C to quit)
+[14:47:34] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:63} DEBUG - import file called
+[14:47:34] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [11/Oct/2020 14:47:34] "[37mGET /import HTTP/1.1[0m" 200 -
+[14:47:34] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [11/Oct/2020 14:47:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[14:47:38] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81ef729dc2a90006e2e251'), 'product': 'game', 'category': 'software', 'vendor': 'President', 'price': '15.90', 'rating': 4}
+[14:47:38] {C:\Users\vkukkundoor\Desktop\learn\rapid-docker\prodcomp\prodcomp.py:57} DEBUG - product: {'_id': ObjectId('5f81f6fc9dc2a90006e2e253'), 'product': 'laptop', 'category': 'electronics', 'vendor': 'Agility', 'price': '900.00', 'rating': 3}
+[14:47:38] {C:\Users\vkukkundoor\AppData\Local\Programs\Python\Python36\lib\site-packages\werkzeug\_internal.py:113} INFO - 127.0.0.1 - - [11/Oct/2020 14:47:38] "[37mGET /fetch HTTP/1.1[0m" 200 -
