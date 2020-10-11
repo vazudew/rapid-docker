@@ -13,15 +13,17 @@ logging.basicConfig(
 
 user='admin'
 password='pass'
-hostname='localhost'
+hostname='mongodb'
 port='27017'
 MONGODB_URI=f"mongodb//{user}:{password}@{hostname}:{port}/"
 logging.debug(f"URL : {MONGODB_URI}")
 MACHINE_ID=("%05x" % random.randrange(16**5)).upper()
 logging.debug(f"ID : {MACHINE_ID}")
 
+#Try one of these !
+#client = MongoClient('mongodb://admin:pass@mongodb:27017/')
+client = MongoClient(MONGODB_URI)
 
-client = MongoClient('mongodb://admin:pass@localhost:27017/')
 database = client['mini_test']
 collection= database['products']
 
@@ -29,6 +31,7 @@ app = Flask(__name__)
 
 
 def initDB():
+    #pass
     try:
         info = client.server_info() # Forces a call.
         logging.debug(f"inf: {info}")
