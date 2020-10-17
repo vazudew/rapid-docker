@@ -16,6 +16,6 @@
     */ => initial info
 
 ## CONTACT
-vazudew@gmail.com :rocket2:
+vazudew@gmail.com :rocket:
 
 Link : Load balancer : https://pspdfkit.com/blog/2018/how-to-use-docker-compose-to-run-multiple-instances-of-a-service-in-development/?fbclid=IwAR0-hoVgBe_a9BYcyiPBHE9bxZ9AjUauWAgT59I-uJK8jVT0000k9tbnfqI
